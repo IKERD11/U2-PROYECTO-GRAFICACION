@@ -176,6 +176,10 @@ Tu guía de poses debe incluir:
 
 Esta guía proporciona una **muestra de referencia** que puedes utilizar como punto de partida. Recuerda que la tuya debe ser **original y reflejar tu propia interpretación**.
 
+![Walk Cycle Reference - Personaje en Poses](images/walk_cycle_reference.png)
+
+*Ejemplo de secuencia de walk cycle con 8 poses principales mostrando el ciclo completo de caminata.*
+
 **Elementos visuales a incluir**:
 - Imágenes o renders de las poses
 - Diagramas de línea de acción (si es posible)
